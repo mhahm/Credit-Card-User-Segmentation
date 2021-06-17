@@ -1,7 +1,13 @@
 # Credit Card Segmentation
-Segmentation of credit card users using k-means
+Behavioral segmentation of credit card customers using k-means
 
-----------------------------------------------------------
+# Table of Contents
+---------------------------------------------------------
+## [Introduction and Problem Statment](https://github.com/mhahm/Credit-Card-User-Segmentation/blob/master/Introduction%20and%20Business%20Problem.pdf)
+* Hypothetical business problem
+* Information about dataset
+* Deliverables
+
 ## [Data Wrangling, EDA, and Initial Modeling](https://github.com/mhahm/Credit-Card-User-Segmentation/blob/master/Data%20Wrangling%2C%20EDA%2C%20Initial%20Modeling.ipynb)
 * Wrangling of dataset - addressing missing values
 * Exploratory data analysis
