@@ -26,3 +26,6 @@ Behavioral segmentation of credit card customers using k-means
 
 
 #### NOTE: In order to render and interact with the plotly graphs, please paste the github links of each notebook into [nbviewer](https://nbviewer.jupyter.org)
+
+## Summary and Report
+(Slide Deck)[https://docs.google.com/presentation/d/1NY7i3QNlryLVD8RZJDVCXjY1jgZfOXSOzdDHlPLzFF4/edit?usp=sharing]
