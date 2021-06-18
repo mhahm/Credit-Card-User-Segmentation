@@ -26,7 +26,7 @@ Behavioral segmentation of credit card customers using k-means
 * Profiling of Clusters
 
 
-#### NOTE: In order to render and interact with the plotly graphs, the link in the README hyperlink to [nbviewer](https://nbviewer.jupyter.org). You can also manually paste the github links into nbviewer
+#### NOTE: In order to render and interact with the plotly graphs, the jupyter notebook headers in the README hyperlink to [nbviewer](https://nbviewer.jupyter.org). You can also manually paste the github notebook links into nbviewer
 
 ## Summary and Report
 [Slide Deck](https://docs.google.com/presentation/d/1NY7i3QNlryLVD8RZJDVCXjY1jgZfOXSOzdDHlPLzFF4/edit?usp=sharing)
