@@ -9,14 +9,14 @@ Behavioral segmentation of credit card customers using k-means
 * Data Science Approach
 * Deliverables
 
-## [Data Wrangling, EDA, and Initial Modeling](https://github.com/mhahm/Credit-Card-User-Segmentation/blob/master/Data%20Wrangling%2C%20EDA%2C%20Initial%20Modeling.ipynb)
+## [Data Wrangling, EDA, and Initial Modeling](https://nbviewer.jupyter.org/github/mhahm/Credit-Card-User-Segmentation/blob/master/Data%20Wrangling%2C%20EDA%2C%20Initial%20Modeling.ipynb)
 * Wrangling of dataset - addressing missing values
 * Exploratory data analysis
 * Initial modeling w/ k-means
 * Evaluation using elbow plot and silhouette score
 * Visualization of Clusters with PCA
 
-## [Addressing Outliers, Modeling, and Profiling](https://github.com/mhahm/Credit-Card-User-Segmentation/blob/master/Outliers%2C%20Modeling%2C%20Profiling.ipynb)
+## [Addressing Outliers, Modeling, and Profiling](https://nbviewer.jupyter.org/github/mhahm/Credit-Card-User-Segmentation/blob/master/Outliers%2C%20Modeling%2C%20Profiling.ipynb)
 * Addressing the outliers in the dataset using two techniques:
     * Interquartile Range
     * Binning
