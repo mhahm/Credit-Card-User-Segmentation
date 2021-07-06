@@ -1,4 +1,4 @@
-# Credit Card Segmentation
+# Segmentation of Credit Card Users
 Behavioral segmentation of credit card customers using k-means
 
 # Table of Contents
