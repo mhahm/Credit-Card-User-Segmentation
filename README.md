@@ -22,7 +22,7 @@ Behavioral segmentation of credit card customers using k-means
     * Binning
 * Modifying the features with binned features
 * Modeling w/ k-means using engineered bins
-* Visualization of Clusters with PCA
+* Principal Component Analysis and Visualization of Clusters
 * Profiling of Clusters
 
 
