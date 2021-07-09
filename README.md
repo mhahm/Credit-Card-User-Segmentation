@@ -1,5 +1,8 @@
 # Segmentation of Credit Card Users
-Behavioral segmentation of credit card customers using k-means
+In this project, I performed behavioral segmentation on credit card customers. I go through the data science process from data preparation, exploration, modeling through unsupervised learning, evaluation, and ultimately to profiling of the segments. The steps taken here and techniques utilized are applicable to any company looking to derive insights from their customers' behaviors and seeking to improve on targeted marketing. 
+
+For this particular dataset, I clustered the data into six segments and created six customer profiles, which offer business value to a company’s marketing or risk department.
+Check out the code notebooks below by clicking the hyperlinks in the table of contents for extensive details on the steps taken.
 
 # Table of Contents
 ---------------------------------------------------------
